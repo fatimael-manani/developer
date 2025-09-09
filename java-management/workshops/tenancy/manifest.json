@@ -50,6 +50,10 @@
             "filename": "../../java-download/java-download.md"
         },
         {
+            "title": "Lab 10: JMS Kubernetes Support",
+            "filename": "../../jms-kubernetes-support/jms-kubernetes-support.md"
+        },
+        {
             "title": "Appendix: Use JMS Resource Health",
             "filename": "../../use-jms-resource-health/use-jms-resource-health.md"
         },
